@@ -12,8 +12,7 @@ Antrag got taken down from the App Store. You can only use this method right now
 
 ### Prerequisites
 <li>A pairing file</li>
-<li><a href=https://github.com/khcrysalis/Antrag/releases/latest/>Antrag</a> with the pairing file imported
-  (settings icon at the top right > Tunnel and Pairing > Import Pairing File)</li>
+<li><a href=https://github.com/khcrysalis/Antrag/releases/latest/>Antrag</a> with the pairing file imported <br>(settings icon at the top right > Tunnel and Pairing > Import Pairing File)</li>
 <li><a href=https://apps.apple.com/app/id6755608044>LocalDevVPN</a> enabled <br>(alternative: <a href=https://apps.apple.com/app/id6744045754>StikDebug's VPN</a>)</li>
 
 ## How to get the app hash
