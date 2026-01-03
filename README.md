@@ -49,4 +49,4 @@ Antrag got taken down from the App Store. You can only use this method right now
     <li>Remove "/private/var/mobile/Containers/Data/Application/" so only a random string of letters and numbers is left. <br>(example:
 /private/var/mobile/Containers/Data/Application/10B2EB4E-DC15-4421-ACD2-203CC8D2C8A8 --> 10B2EB4E-DC15-4421-ACD2-203CC8D2C8A8 )</li>
   </ol>
-</details>
+</details
