@@ -20,6 +20,7 @@ Antrag got taken down from the App Store. You can only use this method right now
 <details>
   <summary>Tutorial for iPhone/iPad wallpapers</summary>
   <ol>
+    <strong>NOTE:</strong> PocketPoster isn't supported on iOS 26.2 beta 2 or higher. If you're on such version, use Nugget instead.
     <li>Go to the main menu of Antrag</li>
     <li>Switch to system</li>
     <img src="https://raw.githubusercontent.com/Maxpro131/PP-Antrag-Method/refs/heads/main/Resources/2.png">
