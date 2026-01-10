@@ -8,7 +8,7 @@ This tutorial shows you how to get the app hash for PocketPoster without a PC/Ma
 > Since this method requires a PC/Mac <strong><i>before</i></strong> using it, I recommend it only to SideStore/StikDebug users
 
 ## IMPORTANT:
-Antrag got taken down from the App Store. You can only use this method right now if you sideload the [Antrag](https://github.com/khcrysalis/Antrag/releases/latest/) ipa or import it into LiveContainer.<br>If you downloaded Antrag once, you can find it in the App Store under Account -> Apps -> 🔍 Antrag
+<strong>The symlinks exploit is patched on iOS 26.2b2/18.7.3 or higher</strong>, which means PocketPoster isn't able to apply any wallpapers on those versions
 
 ### Prerequisites
 <li>A pairing file</li>
@@ -19,7 +19,7 @@ Antrag got taken down from the App Store. You can only use this method right now
 <details>
   <summary>Tutorial for iPhone/iPad wallpapers</summary>
   <ol>
-    <strong>NOTE:</strong> PocketPoster isn't supported on iOS 26.2 beta 2 or higher. If you're on such version, use Nugget instead.
+    <strong>NOTE:</strong> PocketPoster isn't supported on <strong>iOS 26.2 beta 2 & iOS 18.7.3</strong> or higher. If you're on such version, use Nugget instead.
     <li>Go to the main menu of Antrag</li>
     <li>Switch to system</li>
     <img src="https://raw.githubusercontent.com/Maxpro131/PP-Antrag-Method/refs/heads/main/Resources/2.png">
